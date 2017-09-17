@@ -14,7 +14,8 @@ namespace CodingActivity_TicTacToe_ConsoleGame
         {
             
             GameController gameController = new GameController();
-           
+
+            Console.ReadKey();
         }
     }
 }
